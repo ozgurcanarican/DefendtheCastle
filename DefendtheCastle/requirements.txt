@@ -1,0 +1,7 @@
+Oyunu çalıştırmak için
+
+1) Corona Simulator
+
+2) Tercihen ZeroBrane Studio (IDE olarak)
+
+gereklidir.
